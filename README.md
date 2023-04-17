@@ -29,7 +29,8 @@ Feel free to take a look around and get in touch if you'd like to collaborate or
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
--------------------
+
+------------------------
 
 
 

@@ -30,9 +30,8 @@ Feel free to take a look around and get in touch if you'd like to collaborate or
 
 ------------------------
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abrahamwari)]
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abrahamwari)](https://git.io/streak-stats)
 
 -----------------
 

@@ -1,40 +1,56 @@
-[![Abraham's GitHub Banner](./github-header-image.png)](https://braydoncoyer.dev)
 
-My full name is Abraham Wari Jiru
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/abrahamwjiru)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abraham-wari/)
-
-I have a passion for creating interactive and visually appealing websites, I've honed my skills to deliver high-quality projects that meet the needs of businesses and individuals alike.
-
-My Github profile is where I showcase my projects, experiments, and contributions to the developer community. Whether you're a fellow developer looking for inspiration or a potential client interested in seeing my work, you'll find plenty of examples of my skills and experience here.
-
-Feel free to take a look around and get in touch if you'd like to collaborate or have any questions. I'm always eager to learn and grow as a developer, and I'm excited to see where my journey takes me next!
+<h1 align="center">Hi!,  I'm Abraham <img src=
+"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-# Languages and tools
+<div align="center" style="border: px solid #000000;>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Graduate;ML+Enthusiast;Web+Designer;web+developer)](https://git.io/typing-svg)
+</div>
+
+
+
+ A Computer Science graduate and tech enthusiast passionate about software development. I enjoy exploring new technologies, tackling challenges, and fostering collaboration to inspire others in the ever-evolving tech world. 
+
+<br>
+
+  
+-  🔭 I’m currently working on something cool 😉
+
+- 🌱 Learning about Computer Vision and Machine Learning stuff
+
+
+- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+
+
+<br>
+
+<br>
+
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stack👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,java,js,html,css,docker,postgres,prisma,dynamodb,express,figma,firebase,redis,github,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
 </p>
 
-------------------------
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abrahamwari)]
+<br><br>
 
 
------------------
 
-<a href="https://github.com/abrahamwari">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=abrahamwari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Abraham's GitHub Stats" />
-</a>
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=abrahamwari" alt="GitHub Streak"/>
+  </a>
+</p>
+

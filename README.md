@@ -46,11 +46,12 @@
 
 
 
-
-
+<!--tech stack icons
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=abrahamwari" alt="GitHub Streak"/>
   </a>
 </p>
+-->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=abrahamwari&theme=monokai)](https://git.io/streak-stats)

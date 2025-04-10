@@ -54,4 +54,4 @@
 </p>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abrahamwari&theme=monokai)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abrahamwari&theme=nord&card_width=498)](https://git.io/streak-stats)

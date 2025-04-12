@@ -17,13 +17,8 @@
   
 -  🔭 I’m currently working on a secret project 😉
 
-- 🌱 Learning about Computer Vision and Machine Learning stuff
-
-
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
-
-<br>
 
 <br>
 
@@ -37,7 +32,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,java,js,html,css,docker,postgres,prisma,dynamodb,express,figma,firebase,redis,github,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,docker,postgres,express,figma,firebase,redis,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,kubernetes&perline=14" />
   </a>
 </p>
 

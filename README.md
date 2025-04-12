@@ -8,12 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Graduate;ML+Enthusiast;Web+Designer;web+developer)](https://git.io/typing-svg)
 </div>
 
-
-
- A Computer Science graduate and tech enthusiast passionate about software development. I enjoy exploring new technologies, tackling challenges, and fostering collaboration to inspire others in the ever-evolving tech world. 
-
-<br>
-
   
 -  🔭 I’m currently working on a secret project 😉
 

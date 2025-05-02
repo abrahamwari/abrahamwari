@@ -9,9 +9,9 @@
 </div>
 
   
--  🔭 I’m currently working on a secret project 😉
+-  🔭 I am currently focused on working on a secret project. 😉
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 💬 Doing some Master's course as a side quest!
 
 
 <br>
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,docker,postgres,express,figma,firebase,redis,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,postgres,express,figma,firebase,redis,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,&perline=14" />
   </a>
 </p>
 

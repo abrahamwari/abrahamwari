@@ -5,7 +5,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Graduate;ML+Enthusiast;Web+Designer;web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Web+Designer;Web+developer)](https://git.io/typing-svg)
 </div>
 
   
@@ -44,3 +44,4 @@
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abrahamwari&theme=nord&card_width=498)](https://git.io/streak-stats)
+

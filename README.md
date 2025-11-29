@@ -36,5 +36,5 @@
 
 
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abrahamwari&border_radius=12" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abrahamwari&theme=onedark-duo)](https://git.io/streak-stats)

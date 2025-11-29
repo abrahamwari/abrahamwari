@@ -31,10 +31,10 @@
 </p>
 
 
-<br><br>
+<br>
 
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abrahamwari&border_radius=12" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abrahamwari&theme=dark)](https://git.io/streak-stats)
 

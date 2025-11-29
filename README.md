@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,express,figma,firebase,mongodb,mysql ,nodejs,py,react,ts,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,express,figma,firebase,mongodb,mysql,nodejs,py,react,ts,&perline=14" />
   </a>
 </p>
 
@@ -44,5 +44,6 @@
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abrahamwari&theme=nord&card_width=498)](https://git.io/streak-stats)
+
 
 
